@@ -1,8 +1,8 @@
 # pandas_challenge
 
-Chose the heroes of Pymoli Project. 
+Used Pandas to analyze a large data set based on a video game's purchasing data. This included purchase analysis, gender demographics, purchasing analysis by gender, age demographics, top spenders, most popular items, and most profitable items. Below is are the findings from the analysis. 
 
-# 3 Noticeable Trends
+## 3 Noticeable Trends
 1. There is an overwhelming amount of male gamers compared to female and those who did not disclose thier specified gender. This might not be too surprising considering today's trends of countless male gamers, including myself. 
 
 2. Out of the 179 total additional add ons purchased, there seem to be 2 very popular ones, with some being popular, and the rest being fairly scarce. This could be valueable to the company when deciding where more of thier resources, patches, and engineers may be placed in order to maintain profits. There is also little sign that the cheaper the add on, the more it will sell, meaning there is a bigger emphasis on the gaming experience and the popularity of the chosen product. 
