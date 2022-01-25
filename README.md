@@ -1,4 +1,4 @@
-# pandas_challenge
+# Pandas_Project
 
 Used Pandas to analyze a large data set based on a video game's purchasing data. This included purchase analysis, gender demographics, purchasing analysis by gender, age demographics, top spenders, most popular items, and most profitable items. Below is are the findings from the analysis. 
 
